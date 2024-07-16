@@ -1,0 +1,5 @@
+income,500,salary,2010-01-26,salary
+income,400,pension,2010-01-30,pension
+income,500,payment,2010-01-30,payment
+expense,16515,Bills,2024-07-01,June utilities
+expense,135000,Rent,2024-07-01,July rent 
